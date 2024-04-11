@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp",
+        "list": "cpp",
+        "xlocmon": "cpp",
+        "xstring": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "cstdlib": "cpp"
+    }
+}
